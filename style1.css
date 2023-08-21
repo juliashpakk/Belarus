@@ -1,0 +1,143 @@
+body{
+    background-color: rgb(238, 252, 252);
+}
+.a1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+nav {
+    margin: 30px 0;
+    background-color: #196be6;
+    width: 90%;
+}
+
+nav ul {
+    padding:0;
+    margin:0;
+    list-style: none;
+    position: relative;
+    text-align: center;
+    }
+
+nav ul li {
+    margin: 0px 100px 0 0;
+    display:inline-block;
+    background-color: #196be6;
+    }
+
+nav a {
+    display:block;
+    padding:0 10px;
+    color:#FFF;
+    font-size:20px;
+    line-height: 60px;
+    text-decoration:none;
+}
+nav ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+}
+
+/* отображаем выпадающий список при наведении */
+nav ul li:hover > ul {
+    display:inherit;
+}
+
+/* первый уровень выпадающего списка */
+nav ul ul li {
+    min-width:170px;
+    float:none;
+    display:list-item;
+    position: relative;
+}
+nav a:hover {
+    background-color: #5fa6ed;
+}
+.a2{
+    margin-left: 75px;
+}
+.a3{
+    margin-left: 75px;
+}
+.a4{
+    margin-left: -143px;
+}
+.a5{
+    font-size: 17px;
+    text-align: justify;
+}
+.a55{
+    font-size: 20px;
+    text-align: center;
+}
+.a6{
+    font-size: 14px;
+    text-align: center;
+}
+.a9{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.a10{
+    margin:0 auto;
+    width: 90%;
+
+}
+.a11{
+    margin:0 auto;
+    width: 90%;
+    background-color: #cfe7ff;
+}
+.a12{
+    border-radius: 7px;
+}
+.a13{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 15px;
+}
+.a133{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 15px;
+
+}
+.a14{
+    text-align: center;
+    font-size: 22px;
+}
+.a15{
+    padding-bottom: 15px;
+}
+.a16{
+    margin:0 auto;
+    width: 40%;
+    background-color: #d5cfff;
+}
+.a18{
+    margin-right: 80px;
+    margin-left: 97px;
+}
+.a19{
+    margin-left: 180px;
+    margin-right: 150px;
+}
+.a77{
+    margin-left: 30px;
+    margin-bottom: 40px;
+}
+.a777{
+    margin-right: 30px;
+    margin-bottom: 40px;
+}
+.a20{
+    color: rgb(238, 252, 252);
+}
+.a21{
+    margin-right: 50px;
+}
+.a22{
+    margin-top: 200px;
+}

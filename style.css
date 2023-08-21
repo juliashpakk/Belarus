@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(245, 240, 235);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.a1{
+    margin-top: 20px;
+    margin-left: 5%;
+    font-size: 24px;
+}
+.a2{
+    background-color: rgb(161, 145, 231);
+    margin-top: 5px;
+}
+.a0{
+    margin: auto;
+}
+.a3{
+    text-align: center;   
+}
+.a4{
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 15px;
+}
+.a5{
+    font-size: 20px;
+    margin-left: 30px;
+    font-weight: 600;
+}
+.a6{
+    font-size: 14px;
+    text-align: center;
+}
+.a7{
+    text-align: center;
+}
+.a77{
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+.a777{
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+.a8{
+    font-size: 20px;
+    margin-left: 30px;
+}
+.a9{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.a10{
+    margin-right: 20px;
+}
+.a11{
+    margin-top: 40px;
+}
+.a12{
+    border-radius: 7px;
+}
